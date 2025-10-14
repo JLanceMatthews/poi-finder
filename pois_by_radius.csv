@@ -1,0 +1,181 @@
+name,category,address,lat,lon,radius_miles,distance
+Frisco,"locality, political",Frisco,33.1496718,-96.835567,1,5.59
+Cook Children's Pediatric Surgery Center,"doctor, health, point_of_interest, establishment","4200 West University Drive, Prosper",33.2205947,-96.87103499999999,1,0.6
+Dr. Jonathan Kaye,"doctor, health, point_of_interest, establishment","4200 West University Drive Second floor, Prosper",33.2207051,-96.8705346,1,0.63
+Brad Kennerly Real Estate Sales and Property Management,"real_estate_agency, point_of_interest, establishment","16356 Moss Haven Lane, Frisco",33.2139552,-96.8879011,1,0.62
+Western Union,"finance, point_of_interest, establishment","4650 West University Drive, Prosper",33.2206242,-96.87779549999999,1,0.21
+Kroger Money Services,"finance, point_of_interest, establishment","4650 West University Drive, Prosper",33.2207695,-96.87766359999999,1,0.22
+Kroger Pharmacy,"pharmacy, drugstore, store, health, point_of_interest, establishment","4650 West University Drive, Prosper",33.2208171,-96.8776252,1,0.22
+Kroger Marketplace,"grocery_or_supermarket, store, food, point_of_interest, establishment","4650 West University Drive, Prosper",33.2208395,-96.87758699999999,1,0.22
+Primrose School of Windsong Ranch,"school, point_of_interest, establishment","1050 Gee Road, Prosper",33.2246342,-96.8792519,1,0.28
+Today's vision 380,"store, health, point_of_interest, establishment","1525 US Highway 380 #300, Frisco",33.2182975,-96.87706949999999,1,0.31
+Kroger Fuel Center,"gas_station, point_of_interest, establishment","4650 West University Drive, Prosper",33.2196305,-96.8759809,1,0.33
+Windsong Ranch,"general_contractor, point_of_interest, establishment","1001 Windsong Parkway, Prosper",33.2250638,-96.87331230000001,1,0.54
+Play Street Museum - Frisco,"museum, store, point_of_interest, establishment","16702 Hollyhock Road Suite 300, Frisco",33.2174765,-96.8720429,1,0.59
+Dr. Thomas Rothenbach,"doctor, health, point_of_interest, establishment","4200 West University Drive, Prosper",33.2207051,-96.8705346,1,0.63
+Dr. Errin Newman,"doctor, health, point_of_interest, establishment","4200 West University Drive Third floor, Prosper",33.2207051,-96.8705346,1,0.63
+Highland Homes Hollyhock,"general_contractor, point_of_interest, establishment","1909 Snapdragon Road, Frisco",33.2130936,-96.87272109999999,1,0.74
+Hollyhock by Newland,"general_contractor, point_of_interest, establishment","16360 Hollyhock Road, Frisco",33.2138851,-96.8714145,1,0.76
+St. Martin de Porres Catholic School,"primary_school, school, point_of_interest, establishment","4000 West University Drive, Prosper",33.2214451,-96.8665419,1,0.86
+HOLT CAT Little Elm,"point_of_interest, establishment","27600 East University Drive, Aubrey",33.2185469,-96.89690929999999,1,0.91
+Little Elm,"locality, political",Little Elm,33.1782296,-96.89098919999999,1,3.01
+Vineyard Community Church NTX,"church, place_of_worship, point_of_interest, establishment","800 Copper Canyon Drive, Prosper",33.227613,-96.867114,1,0.94
+Windsong Ranch Elementary,"primary_school, school, point_of_interest, establishment","800 Copper Canyon Drive, Prosper",33.2281077,-96.8671529,1,0.96
+Circle K ATM,"atm, finance, point_of_interest, establishment","27575 Hwy. 380, 27575 U.S. 380 E, Aubrey",33.2203409,-96.8985917,1,0.99
+Circle K,"convenience_store, cafe, meal_takeaway, atm, store, finance, restaurant, food, point_of_interest, establishment","27575 U.S. 380, Aubrey",33.2203847,-96.8985986,1,0.99
+Dr. Lauren Akers,"doctor, point_of_interest, health, establishment","4200 West University Drive, Prosper",33.21997,-96.87047,1,0.64
+SafeSplash Swim School - Prosper (University Drive),"point_of_interest, establishment","4900 West University Drive, Prosper",33.2210637,-96.88127089999999,1,0.01
+LA Fitness,"gym, point_of_interest, health, establishment","4900 West University Drive, Prosper",33.2211184,-96.8815552,1,0.01
+Restore Hyper Wellness,"spa, point_of_interest, health, establishment","4890 West University Drive #20, Prosper",33.2209712,-96.8810238,1,0.02
+Posh Nail Salon,"beauty_salon, point_of_interest, establishment","4890 West University Drive, Prosper",33.221014,-96.88102110000001,1,0.02
+Splash and Dash Groomerie & Boutique,"pet_store, store, point_of_interest, establishment","4890 West University Drive #30, Prosper",33.2209753,-96.8809538,1,0.03
+First Watch,"restaurant, food, point_of_interest, establishment","4890 West University Drive #50, Prosper",33.2209987,-96.8807843,1,0.04
+Jimmy John's,"meal_delivery, meal_takeaway, restaurant, food, point_of_interest, establishment","4890 West University Drive #90, Prosper",33.2214012,-96.8807405,1,0.05
+RaceTrac,"gas_station, convenience_store, cafe, liquor_store, meal_takeaway, store, restaurant, food, point_of_interest, establishment","4870 West University Drive, Prosper",33.2198541,-96.8810027,1,0.08
+Optimum,"point_of_interest, establishment","4940 West University Drive STE 90, Prosper",33.2197515,-96.8820095,1,0.09
+Batteries Plus Phone Repair,"point_of_interest, establishment","4940 West University Drive Suite 80, Prosper",33.21974569999999,-96.88210289999999,1,0.1
+Batteries Plus,"home_goods_store, store, car_repair, point_of_interest, establishment","4940 West University Drive Suite 80, Prosper",33.2197456,-96.88210289999999,1,0.1
+Prosper Test Prep,"point_of_interest, establishment","4940 West University Drive #20, Prosper",33.2196925,-96.8819785,1,0.1
+Come See Us,"dentist, point_of_interest, health, establishment","4940 West University Drive, Prosper",33.2197456,-96.8821411,1,0.1
+Eyedeal Eyecare,"store, point_of_interest, health, establishment","4940 West University Drive Ste 70, Prosper",33.2197456,-96.8821411,1,0.1
+Wingstop,"restaurant, food, point_of_interest, establishment","4940 University Drive, Prosper",33.21978109999999,-96.88227789999999,1,0.1
+Sport Clips Haircuts of Prosper - Westfork Crossing,"hair_care, point_of_interest, health, establishment","4940 West University Drive, Prosper",33.219744,-96.882229,1,0.1
+Total Men's Primary Care - Prosper,"doctor, point_of_interest, health, establishment","4940 West University Drive Suite 60, Prosper",33.2197017,-96.8821668,1,0.1
+Hyderabad House Prosper TX,"restaurant, food, point_of_interest, establishment","4740 West University Drive Ste 20, Prosper",33.22088519999999,-96.8796344,1,0.1
+Maria Nguyen,"dentist, point_of_interest, health, establishment","4740 West University Drive, Prosper",33.2209453,-96.8796268,1,0.1
+Club Pilates,"gym, point_of_interest, health, establishment","4740 West University Drive Suite 120, Prosper",33.2209004,-96.8796214,1,0.1
+Imprint Dental,"dentist, point_of_interest, health, establishment","4940 West University Drive #40, Prosper",33.2197007,-96.88232839999999,1,0.11
+Best Foot Spa,"spa, point_of_interest, establishment","4740 West University Drive #30, Prosper",33.2208791,-96.87959049999999,1,0.1
+Gideon Math and Reading - Prosper,"point_of_interest, establishment","4940 West University Drive #20, Prosper",33.21970189999999,-96.8824447,1,0.11
+Menchie's Windsong Ranch,"store, restaurant, food, point_of_interest, establishment","4740 West University Drive Ste 40, Prosper",33.2208813,-96.8794861,1,0.11
+Ace Montessori,"primary_school, school, point_of_interest, establishment","4770 West University Drive, Prosper",33.2215082,-96.87957139999999,1,0.11
+Grandlux Nail Salon,"beauty_salon, point_of_interest, establishment","4740 West University Drive #60, Prosper",33.2207937,-96.8794379,1,0.11
+MOD Pizza,"restaurant, food, point_of_interest, establishment","4780 West University Drive Suite 10, Prosper",33.2202298,-96.8795488,1,0.12
+Holistic Nutrition Therapy at Prosper,"point_of_interest, health, establishment","4780 West University Drive, Prosper",33.2201763,-96.8795615,1,0.12
+CityVet | Prosper Windsong Ranch,"veterinary_care, point_of_interest, establishment","4780 West University Drive Ste 40, Prosper",33.2201217,-96.8795042,1,0.13
+Valvoline Instant Oil Change,"store, car_repair, point_of_interest, establishment","4980 West University Drive, Prosper",33.21970999999999,-96.88295,1,0.13
+RockStar Martial Arts - Prosper,"gym, point_of_interest, health, establishment","4740 West University Drive #70, Prosper",33.2208037,-96.8791734,1,0.13
+Star Lashes Studio,"beauty_salon, point_of_interest, establishment","4740 West University Drive Suite #80, Prosper",33.220869,-96.87915970000002,1,0.13
+kdlmedicalbilling,"finance, point_of_interest, health, establishment","4931 Lockwood Drive, Prosper",33.2228111,-96.88222479999999,1,0.13
+Hungry Platters & Gyro,"store, restaurant, food, point_of_interest, establishment","4740 West University Drive, Prosper",33.2207678,-96.87910769999999,1,0.13
+Lapels,"laundry, point_of_interest, establishment","4740 University Drive, Prosper",33.2207972,-96.8791001,1,0.13
+Frisco,"locality, political",Frisco,33.1496718,-96.835567,3,5.59
+"Southern Fastening Systems, Inc Aubrey TX","hardware_store, general_contractor, store, point_of_interest, establishment","26772 U.S. 380, Aubrey",33.2196,-96.9176296,3,2.1
+Lone Star High School,"secondary_school, school, point_of_interest, establishment","2606 Panther Creek Parkway, Frisco",33.1909853,-96.8671153,3,2.23
+Shady Creek RV Park and Storage,"rv_park, campground, lodging, park, point_of_interest, establishment","1893 Farm to Market Road 1385, Aubrey",33.2350515,-96.8978149,3,1.36
+Northern Texas PGA,"point_of_interest, establishment","16124 Championship Drive, Frisco",33.211972,-96.8602786,3,1.37
+Cook Children's Pediatric Surgery Center,"doctor, health, point_of_interest, establishment","4200 West University Drive, Prosper",33.2205947,-96.87103499999999,3,0.6
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment","12220 Farm to Market Road 423, Frisco",33.180218,-96.88428069999999,3,2.82
+WaserGroup Real Estate Services,"real_estate_agency, point_of_interest, establishment","2831 Eldorado Parkway Ste 103-196, Frisco",33.1778584,-96.88442520000001,3,2.99
+Savannah Dental Care,"dentist, health, point_of_interest, establishment","26795 U.S. 380 #400, Aubrey",33.220404,-96.912216,3,1.78
+Love Sushi,"restaurant, food, point_of_interest, establishment","12398 Farm to Market Road 423, Frisco",33.1809826,-96.8846516,3,2.77
+Dr. Jonathan Kaye,"doctor, health, point_of_interest, establishment","4200 West University Drive Second floor, Prosper",33.2207051,-96.8705346,3,0.63
+Billy Gene Phillips Elementary School,"primary_school, school, point_of_interest, establishment","2285 Little River Drive, Frisco",33.19684259999999,-96.8697049,3,1.8
+BELLA NAILS,"beauty_salon, point_of_interest, establishment","12398 Farm to Market Road 423 #1600, Frisco",33.1810427,-96.8851147,3,2.77
+Walmart Supercenter,"department_store, hardware_store, grocery_or_supermarket, furniture_store, clothing_store, electronics_store, home_goods_store, bakery, store, food, point_of_interest, establishment","12220 Farm to Market Road 423, Frisco",33.1798674,-96.88369139999999,3,2.84
+Rendon Orthodontics,"dentist, health, point_of_interest, establishment","12398 Farm to Market Road 423 #100, Frisco",33.18095829999999,-96.88570430000001,3,2.78
+Lowe's Home Improvement,"hardware_store, furniture_store, home_goods_store, store, point_of_interest, establishment","2773 East Eldorado Parkway, Little Elm",33.180457,-96.88901299999999,3,2.84
+Sport Clips Haircuts of Little Elm,"hair_care, health, point_of_interest, establishment","2763 East Eldorado Parkway #140, Little Elm",33.17975080000001,-96.89073139999999,3,2.9
+AT&T Store,"store, point_of_interest, establishment","12244 Farm to Market Road 423 #400, Frisco",33.1799248,-96.8865341,3,2.85
+O'Reilly Auto Parts,"electronics_store, car_repair, store, point_of_interest, establishment","2976 Farm to Market Road 423, Little Elm",33.1853155,-96.8878302,3,2.49
+Little Elm,"locality, political",Little Elm,33.1782296,-96.89098919999999,3,3.01
+Baylor Scott & White Emergency Hospital – Aubrey,"hospital, health, point_of_interest, establishment","26791 U.S. 380, Aubrey",33.220675,-96.913502,3,1.85
+Sue Wilson Stafford Middle School,"school, point_of_interest, establishment","2288 Little River Drive, Frisco",33.1983977,-96.8691649,3,1.71
+Brad Kennerly Real Estate Sales and Property Management,"real_estate_agency, point_of_interest, establishment","16356 Moss Haven Lane, Frisco",33.2139552,-96.8879011,3,0.62
+Grand Homes - Savannah,"general_contractor, point_of_interest, establishment","809 Dogwood Trail, Savannah",33.221205,-96.905486,3,1.39
+Cub Scout Pack 975,"point_of_interest, establishment","2501 Woodlake Parkway, Little Elm",33.1925062,-96.8931406,3,2.08
+Architectural Glass Solutions,"car_repair, point_of_interest, establishment","3249 Horizons Drive, Little Elm",33.19488880000001,-96.88784009999999,3,1.84
+380ParknStore,"storage, parking, point_of_interest, establishment","1875 Farm to Market Road 1385 suite a, Aubrey",33.2356818,-96.89739349999999,3,1.37
+Vineyard Community Church NTX,"church, place_of_worship, point_of_interest, establishment","800 Copper Canyon Drive, Prosper",33.227613,-96.867114,3,0.94
+The Kids Corral At Savannah,"school, point_of_interest, establishment","631 Magnolia Boulevard, Savannah",33.2216746,-96.914738,3,1.93
+Western Union,"finance, point_of_interest, establishment","4650 West University Drive, Prosper",33.2206242,-96.87779549999999,3,0.21
+Kroger Money Services,"finance, point_of_interest, establishment","4650 West University Drive, Prosper",33.2207695,-96.87766359999999,3,0.22
+Kroger Pharmacy,"pharmacy, drugstore, health, point_of_interest, store, establishment","4650 West University Drive, Prosper",33.2208171,-96.8776252,3,0.22
+Kroger Marketplace,"grocery_or_supermarket, point_of_interest, store, food, establishment","4650 West University Drive, Prosper",33.2208395,-96.87758699999999,3,0.22
+Primrose School of Windsong Ranch,"school, point_of_interest, establishment","1050 Gee Road, Prosper",33.2246342,-96.8792519,3,0.28
+Today's vision 380,"health, point_of_interest, store, establishment","1525 US Highway 380 #300, Frisco",33.2182975,-96.87706949999999,3,0.31
+Kroger Fuel Center,"gas_station, point_of_interest, establishment","4650 West University Drive, Prosper",33.2196305,-96.8759809,3,0.33
+Windsong Ranch,"general_contractor, point_of_interest, establishment","1001 Windsong Parkway, Prosper",33.2250638,-96.87331230000001,3,0.54
+Play Street Museum - Frisco,"museum, point_of_interest, store, establishment","16702 Hollyhock Road Suite 300, Frisco",33.2174765,-96.8720429,3,0.59
+Dr. Thomas Rothenbach,"doctor, health, point_of_interest, establishment","4200 West University Drive, Prosper",33.2207051,-96.8705346,3,0.63
+Dr. Errin Newman,"doctor, health, point_of_interest, establishment","4200 West University Drive Third floor, Prosper",33.2207051,-96.8705346,3,0.63
+Highland Homes Hollyhock,"general_contractor, point_of_interest, establishment","1909 Snapdragon Road, Frisco",33.2130936,-96.87272109999999,3,0.74
+Hollyhock by Newland,"general_contractor, point_of_interest, establishment","16360 Hollyhock Road, Frisco",33.2138851,-96.8714145,3,0.76
+St. Martin de Porres Catholic School,"primary_school, school, point_of_interest, establishment","4000 West University Drive, Prosper",33.2214451,-96.8665419,3,0.86
+HOLT CAT Little Elm,"point_of_interest, establishment","27600 East University Drive, Aubrey",33.2185469,-96.89690929999999,3,0.91
+Windsong Ranch Elementary,"primary_school, school, point_of_interest, establishment","800 Copper Canyon Drive, Prosper",33.2281077,-96.8671529,3,0.96
+Circle K ATM,"atm, finance, point_of_interest, establishment","27575 Hwy. 380, 27575 U.S. 380 E, Aubrey",33.2203409,-96.8985917,3,0.99
+Circle K,"convenience_store, atm, meal_takeaway, cafe, finance, store, restaurant, food, point_of_interest, establishment","27575 U.S. 380, Aubrey",33.2203847,-96.8985986,3,0.99
+Grasshoppers Landscaping LLC.,"general_contractor, point_of_interest, establishment","1717 Mercer Way, Aubrey",33.2242194,-96.8998522,3,1.09
+Circle K ATM,"atm, finance, point_of_interest, establishment","11801 Farm to Market Road 423, Little Elm",33.1930048,-96.8866414,3,1.96
+Prosper Fire Station 2,"fire_station, point_of_interest, establishment","1140 South South Teel Parkway, Prosper",33.22313109999999,-96.86119959999999,3,1.18
+Piano Lessons North Texas,"school, store, point_of_interest, establishment","1508 Cobblestone Court, Savannah",33.22694720000001,-96.90209259999999,3,1.26
+Express Fence,"general_contractor, point_of_interest, establishment","14604 Eaglemont Drive, Little Elm",33.2023303,-96.88325139999999,3,1.3
+Altex Remodeling and Roofing,"roofing_contractor, general_contractor, point_of_interest, establishment","1893 Farm to Market Road 1385 Suite 131, Aubrey",33.2350295,-96.8970047,3,1.32
+Park 3Eighty Apartments,"real_estate_agency, point_of_interest, establishment","27040 U.S. 380, Aubrey",33.21766449999999,-96.9057749,3,1.43
+Tedrius Enterprise LLC,"point_of_interest, establishment","1917 Ridge Creek Lane, Aubrey",33.2402013,-96.8967041,3,1.59
+Twin Lakes Pet Resort & Spa,"point_of_interest, establishment","26828 U.S. 380, Aubrey",33.2191294,-96.9092581,3,1.61
+Villages 3Eighty Apartments,"real_estate_agency, point_of_interest, establishment","26850 U.S. 380, Aubrey",33.2173215,-96.9098547,3,1.66
+r2viddeoz,"point_of_interest, establishment","1131 Charleston Lane, Aubrey",33.23083829999999,-96.90798799999999,3,1.68
+NW Community Park DORBA Trail,"park, point_of_interest, establishment","14350 Teel Parkway, Frisco",33.1983913,-96.8680736,3,1.74
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment","26795 U.S. 380 Suite 1100, Little Elm",33.220391,-96.9116222,3,1.75
+Frisco,"locality, political",Frisco,33.1496718,-96.835567,5,5.59
+"Southern Fastening Systems, Inc Aubrey TX","hardware_store, general_contractor, store, point_of_interest, establishment","26772 U.S. 380, Aubrey",33.2196,-96.9176296,5,2.1
+WaserGroup Real Estate Services,"real_estate_agency, point_of_interest, establishment","2831 Eldorado Parkway Ste 103-196, Frisco",33.1778584,-96.88442520000001,5,2.99
+AT&T Store,"store, point_of_interest, establishment","12021 Dallas Parkway #500, Frisco",33.1778204,-96.8409399,5,3.79
+Wakeland High School,"secondary_school, school, point_of_interest, establishment","10700 Legacy Drive, Frisco",33.167988,-96.8454854,5,4.21
+Comfort Suites Frisco,"lodging, point_of_interest, establishment","9700 Dallas Parkway, Frisco",33.158181,-96.839218,5,4.98
+Little Elm High School,"secondary_school, school, point_of_interest, establishment","1900 Walker Lane, Little Elm",33.180892,-96.906139,5,3.12
+Baskin-Robbins,"bakery, store, food, point_of_interest, establishment","2700 East Eldorado Parkway Ste 103, Little Elm",33.1778561,-96.8904809,5,3.03
+Rubyz Day Spa,"spa, hair_care, beauty_salon, health, point_of_interest, establishment","4645 Avon Lane Suite #370 Bldg#3, Frisco",33.1647764,-96.8458623,5,4.39
+Lone Star High School,"secondary_school, school, point_of_interest, establishment","2606 Panther Creek Parkway, Frisco",33.1909853,-96.8671153,5,2.23
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment","12220 Farm to Market Road 423, Frisco",33.180218,-96.88428069999999,5,2.82
+CAP Digisoft Solutions Inc.,"point_of_interest, establishment","2770 Main Street #93, Frisco",33.1546866,-96.8663024,5,4.66
+Walgreens,"drugstore, convenience_store, clothing_store, health, store, food, point_of_interest, establishment","26731 U.S. 380, Aubrey",33.2215821,-96.9365966,5,3.19
+"Jason Harn, M.D.","doctor, health, point_of_interest, establishment","12500 Dallas Parkway, Frisco",33.1817277,-96.8371805,5,3.73
+Target Optical,"health, store, point_of_interest, establishment","4885 Eldorado Parkway, Frisco",33.1731382,-96.8443832,5,3.94
+TLC Pediatrics of Frisco,"doctor, health, point_of_interest, establishment","11700 Teel Parkway Ste 200, Frisco",33.1754742,-96.86455169999999,5,3.29
+Hollingsworth Emily OD,"health, point_of_interest, establishment","11220 Dallas Parkway, Frisco",33.17197779999999,-96.8376792,5,4.22
+"Monarch Dental & Orthodontics - Little Elm, TX","dentist, doctor, health, point_of_interest, establishment","2700 East Eldorado Parkway Suite 106, Little Elm",33.1777962,-96.89024909999999,5,3.03
+Shady Creek RV Park and Storage,"rv_park, campground, lodging, park, point_of_interest, establishment","1893 Farm to Market Road 1385, Aubrey",33.2350515,-96.8978149,5,1.36
+Little Elm,"locality, political",Little Elm,33.1782296,-96.89098919999999,5,3.01
+"Shahzad Khan, MD","doctor, health, point_of_interest, establishment","7600 Better Way, Frisco",33.21026,-96.81585,5,3.86
+Best Buy,"electronics_store, home_goods_store, store, point_of_interest, establishment","5299 Eldorado Parkway, Frisco",33.173075,-96.841371,5,4.04
+Costco Wholesale,"department_store, store, point_of_interest, establishment","11220 Dallas Parkway, Frisco",33.1717793,-96.83694240000001,5,4.26
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment","2700 East Eldorado Parkway Suite # 404, Little Elm",33.1758578,-96.8880914,5,3.14
+"Dr. Todd A. Odom, MD","doctor, health, point_of_interest, establishment","13136 Dallas Parkway, Frisco",33.182219,-96.8379848,5,3.67
+"Jamison M. Albracht, DO","doctor, health, point_of_interest, establishment","9990 Dallas Parkway Suite 200, Frisco",33.1606326,-96.8387258,5,4.84
+Northern Texas PGA,"point_of_interest, establishment","16124 Championship Drive, Frisco",33.211972,-96.8602786,5,1.37
+The UPS Store,"store, finance, point_of_interest, establishment","5000 Eldorado Parkway, Frisco",33.1762907,-96.8430037,5,3.8
+Love Sushi,"restaurant, food, point_of_interest, establishment","12398 Farm to Market Road 423, Frisco",33.1809826,-96.8846516,5,2.77
+HJ Cedar Patio Covers and Stamped Concrete,"home_goods_store, general_contractor, store, point_of_interest, establishment","1364 Lake Grove Drive, Little Elm",33.2053775,-96.9397894,5,3.54
+"Mona Dave, M.D.","doctor, health, point_of_interest, establishment","13192 Dallas Parkway, Frisco",33.1875408,-96.8380311,5,3.41
+"CPR Cell Phone Repair Little Elm | Computer, iphone Repair - MacBook, PS5 & Tablet Repair","electronics_store, store, point_of_interest, establishment","2700 East Eldorado Parkway Suite 408, Little Elm",33.1757406,-96.8881025,5,3.15
+Prestonwood Baptist Church - North Campus,"church, place_of_worship, point_of_interest, establishment","1001 West Prosper Trail, Prosper",33.2466172,-96.8123854,5,4.36
+Anna Nicole Hair Studio,"hair_care, point_of_interest, establishment","12021 Dallas Parkway suite 600 (Room 128, Frisco",33.1779259,-96.84121379999999,5,3.77
+The Trails of Frisco Golf Club,"point_of_interest, establishment","10411 Teel Parkway, Frisco",33.1652362,-96.8649045,5,3.97
+Sai Dental,"dentist, doctor, health, point_of_interest, establishment","11330 Legacy Drive #201, Frisco",33.1728991,-96.8462028,5,3.9
+Anedena Salon,"hair_care, beauty_salon, point_of_interest, establishment","12021 Dallas Parkway 600 Ste 200, Frisco",33.1779259,-96.84121379999999,5,3.77
+Walmart Supercenter,"department_store, hardware_store, electronics_store, clothing_store, furniture_store, home_goods_store, bakery, grocery_or_supermarket, store, food, point_of_interest, establishment","12220 Farm to Market Road 423, Frisco",33.1798674,-96.88369139999999,5,2.84
+The Home Depot,"hardware_store, furniture_store, home_goods_store, store, point_of_interest, establishment","5995 Eldorado Parkway, Frisco",33.1736286,-96.8345538,5,4.25
+Cook Children's Pediatric Surgery Center,"doctor, health, point_of_interest, establishment","4200 West University Drive, Prosper",33.2205947,-96.87103499999999,5,0.6
+Bennett & Alma Griffin Middle School,"school, point_of_interest, establishment","3703 Eldorado Parkway, Frisco",33.1768359,-96.8573906,5,3.35
+"Madhavi Ampajwala, MD","doctor, health, point_of_interest, establishment","9990 Dallas Parkway Suite 200, Frisco",33.1606326,-96.8387258,5,4.84
+Target,"department_store, shoe_store, electronics_store, furniture_store, home_goods_store, clothing_store, store, point_of_interest, establishment","4885 Eldorado Parkway, Frisco",33.17310429999999,-96.84464779999999,5,3.93
+BELLA NAILS,"beauty_salon, point_of_interest, establishment","12398 Farm to Market Road 423 #1600, Frisco",33.1810427,-96.8851147,5,2.77
+Palm Beach Tan,"spa, health, point_of_interest, establishment","2700 East Eldorado Parkway #405, Little Elm",33.175908,-96.8881141,5,3.14
+Warrior Martial Arts Academy Little Elm,"gym, health, point_of_interest, establishment","2833 Eldorado Parkway #303, Little Elm",33.1764743,-96.88585839999999,5,3.09
+Rendon Orthodontics,"dentist, health, point_of_interest, establishment","12398 Farm to Market Road 423 #100, Frisco",33.18095829999999,-96.88570430000001,5,2.78
+El Tapatio Meat Market,"grocery_or_supermarket, store, food, point_of_interest, establishment","1000 E, 1000 East Eldorado Parkway, Little Elm",33.1685094,-96.9230099,5,4.35
+Lowe's Home Improvement,"hardware_store, furniture_store, home_goods_store, store, point_of_interest, establishment","2773 East Eldorado Parkway, Little Elm",33.180457,-96.88901299999999,5,2.84
+Bethel Methodist Church of Denton County,"church, place_of_worship, point_of_interest, establishment","3126 Main Street, Providence Village",33.2475343,-96.952714,5,4.51
+EYES IN SIGHT,"health, store, point_of_interest, establishment","9191 Kyser Way #602, Frisco",33.15430449999999,-96.8599014,5,4.77
+Linnea Lavell Realtor,"real_estate_agency, point_of_interest, establishment","2601 Little Elm Parkway Suite 404, Little Elm",33.1706155,-96.8929572,5,3.54
+Robert Cobb Middle School,"school, point_of_interest, establishment","9400 Teel Parkway, Frisco",33.1559279,-96.8632315,5,4.62
+"Rudy's ""Country Store"" and Bar-B-Q","restaurant, food, point_of_interest, establishment","9828 Dallas Parkway, Frisco",33.1598846,-96.83920379999999,5,4.87
+Petco,"pet_store, store, food, point_of_interest, establishment","5177 Eldorado Parkway, Frisco",33.1731717,-96.8422505,5,4.0
+"Dr. Bryan Carmichael, DDS","dentist, health, point_of_interest, establishment","2405 Farm to Market Road 423, Little Elm",33.1729425,-96.88681340000001,5,3.33
+Sport Clips Haircuts of Little Elm,"hair_care, health, point_of_interest, establishment","2763 East Eldorado Parkway #140, Little Elm",33.17975080000001,-96.89073139999999,5,2.9
+KBNNS,"beauty_salon, point_of_interest, establishment","2705 Little Elm Parkway Studio Suite 31, Little Elm",33.1710183,-96.88960030000001,5,3.48
+Subway,"meal_takeaway, restaurant, food, point_of_interest, establishment","26615 U.S. 380 #160, Providence Village",33.2224866,-96.96206629999999,5,4.66
+Savannah Dental Care,"dentist, health, point_of_interest, establishment","26795 U.S. 380 #400, Aubrey",33.220404,-96.912216,5,1.78
