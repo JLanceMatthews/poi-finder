@@ -8,6 +8,14 @@ import requests
 import pandas as pd
 import streamlit as st
 from math import radians, sin, cos, asin, sqrt
+import os, time, requests
+import pandas as pd
+import streamlit as st
+from math import radians, sin, cos, asin, sqrt
+
+st.set_page_config(page_title="POI Finder", layout="wide")
+st.write("✅ App booted")  # should always appear
+
 
 
 # --- secrets / env ---
@@ -16,7 +24,8 @@ GOOGLE_API_KEY = st.secrets.get("GOOGLE_API_KEY", os.getenv("GOOGLE_API_KEY", ""
 
 st.title("POI Finder")
 if not MAPBOX_TOKEN or not GOOGLE_API_KEY:
-    st.info("Add MAPBOX_TOKEN and GOOGLE_API_KEY in Settings → Secrets after deploy.")
+    st.warning("Add MAPBOX_TOKEN and GOOGLE_API_KEY in ☰ → Settings → Secrets, then click Rerun.")
+    st.stop()
 
 def miles_to_meters(m): return int(m*1609.34)
 def haversine(lat1, lon1, lat2, lon2):
