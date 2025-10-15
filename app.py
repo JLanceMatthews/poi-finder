@@ -2,6 +2,13 @@ import os, time, requests
 import pandas as pd
 import streamlit as st
 from math import radians, sin, cos, asin, sqrt
+import os
+import time
+import requests
+import pandas as pd
+import streamlit as st
+from math import radians, sin, cos, asin, sqrt
+
 
 # --- secrets / env ---
 MAPBOX_TOKEN   = st.secrets.get("MAPBOX_TOKEN", os.getenv("MAPBOX_TOKEN", ""))
@@ -17,6 +24,17 @@ def haversine(lat1, lon1, lat2, lon2):
     dlon, dlat = lon2-lon1, lat2-lat1
     a = sin(dlat/2)**2 + cos(lat1)*cos(lat2)*sin(dlon/2)**2
     return 3956*2*asin(sqrt(a))  # miles
+# === API Keys ===
+MAPBOX_TOKEN   = st.secrets.get("MAPBOX_TOKEN", os.getenv("MAPBOX_TOKEN", ""))
+GOOGLE_API_KEY = st.secrets.get("GOOGLE_API_KEY", os.getenv("GOOGLE_API_KEY", ""))
+
+st.title("POI Finder")
+
+# Show a friendly message if keys are missing and stop the script
+if not MAPBOX_TOKEN or not GOOGLE_API_KEY:
+    st.warning("⚠️ Add MAPBOX_TOKEN and GOOGLE_API_KEY in ☰ → Settings → Secrets, then click Rerun.")
+    st.stop()
+
 
 def geocode(address):
     url = f"https://api.mapbox.com/geocoding/v5/mapbox.places/{address}.json"
@@ -64,3 +82,4 @@ if st.button("Run POI Search"):
                            "pois_by_radius.csv", "text/csv")
     except Exception as e:
         st.error(f"Error: {e}")
+import os, streamlit as st
